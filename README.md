@@ -2,6 +2,13 @@
 #### Thirumurugan Ramar
 Made a dialogue chatbot which would be able to answer programming-related questions (using StackOverflow dataset); chit-chat and simulate dialogue on all non programming-related questions.
 
+# Screenshots:
+![](images/telegram.png)
+
+
+#### From masterbot telegram
+![](images/telegram2.png)
+
 # Requirements:
 
 -> AWS account to host the chatbot (Free-tier instance)
