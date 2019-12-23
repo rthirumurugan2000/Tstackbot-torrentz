@@ -41,5 +41,9 @@ tfidf_vectorizer.pkl-- vectorizer used during training;
 thread_embeddings_by_tags-- folder with thread embeddings, arranged by tags.(Folder containing embeddings of stackoverflow posts/threads segregated “tag” wise. This saves lot of time at runtime in generating the embeddings needed to compare various stackoverflow threads and rank them as per the closest similarity to our question)
 
 
+# Acknowledgement:
+This chatbot was made with the help of the resources provided by the NLP course in coursera by  National Research University Higher School of Economics
+
+
 
 
