@@ -1,5 +1,7 @@
 # Tstackbot-torrentz
 #### Thirumurugan Ramar
+![](https://img.shields.io/badge/Status%20-Completed-red)             ![](https://img.shields.io/badge/License%20-Apache-green)
+
 Made a dialogue chatbot which would be able to answer programming-related questions (using StackOverflow dataset); chit-chat and simulate dialogue on all non programming-related questions.
 
 For both Intent recognizer and Tag classifier  used LogisicRegression on HashingVectorizer features. For most similar thread retrieval I pretrained StarSpace embeddings and used unweighted sum over words embeddings for text summarization. Most similar thread taken by least cosine distance between summarized texts.
